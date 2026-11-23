@@ -1,0 +1,16 @@
+p {
+color: rgb(65, 65, 167);
+}
+h1 {
+color: rgb(142, 204, 142);
+}
+
+body {
+margin: 0;
+}
+
+header {background-color: rgb(184, 105, 105);
+padding: 20px;
+text-align: center;
+}
+
